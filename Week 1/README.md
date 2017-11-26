@@ -1,4 +1,4 @@
-## Coding Challenge -- Due Date, Thursday November 23rd, 2017
+## Coding Challenge
 
 This week's coding challenge is to implement Value iteration algorithm built for the <a href="https://gym.openai.com/envs/Taxi-v1/">Taxi-v1</a> environment by OpenAI Gym library. By <a href="https://github.com/llSourcell/AI_for_Video_Games_Syllabus">Siraj Raval.</a>
 
