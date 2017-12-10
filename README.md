@@ -9,3 +9,7 @@ Monte Carlo Prediction algorithm built for the <a href="https://gym.openai.com/e
 
 ## Week 3 - Q-Learning algorithm
 Q-Learning algorithm built for the <a href="https://gym.openai.com/envs/MountainCarContinuous-v0/">MountainCarContinuous-v0</a> environment by OpenAI Gym library.
+
+## Week 4 - Policy Gradients algorithm
+Policy Gradients algorithm built for the <a href="https://gym.openai.com/envs/Pong-v0/">Pong-v0</a> environment by OpenAI Gym library.
+
