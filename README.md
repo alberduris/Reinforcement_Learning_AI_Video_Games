@@ -13,3 +13,7 @@ Q-Learning algorithm built for the <a href="https://gym.openai.com/envs/Mountain
 ## Week 4 - Policy Gradients algorithm
 Policy Gradients algorithm built for the <a href="https://gym.openai.com/envs/Pong-v0/">Pong-v0</a> environment by OpenAI Gym library.
 
+## Week 5 - Actor-Critic model
+Actor-Critic model built for the <a href="https://gym.openai.com/envs/Pendulum-v0/">Pendulum-v0</a> environment by OpenAI Gym library.
+
+
