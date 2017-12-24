@@ -16,4 +16,5 @@ Policy Gradients algorithm built for the <a href="https://gym.openai.com/envs/Po
 ## Week 5 - Actor-Critic model
 Actor-Critic model built for the <a href="https://gym.openai.com/envs/Pendulum-v0/">Pendulum-v0</a> environment by OpenAI Gym library.
 
-
+## Week 6 - Proximal Policy Optimization
+Proximal Policy Optimization algorithm built for the <a href="https://gym.openai.com/envs/Pendulum-v0/">Pendulum-v0</a> environment by OpenAI Gym library.
