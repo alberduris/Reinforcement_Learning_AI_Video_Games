@@ -1,4 +1,4 @@
-## Coding Challenge -- (Not submitted)
+## Coding Challenge
 
 This week's coding challenge is to implement Proximal Policy Optimization algorithm. Here it is built for the <a href="https://gym.openai.com/envs/Pendulum-v0/">Pendulum-v0</a> environment by OpenAI Gym library. By <a href="https://github.com/llSourcell/AI_for_Video_Games_Syllabus">Siraj Raval.</a>
 
@@ -13,6 +13,18 @@ The submission file is: <a href="Proximal_Policy_Optimization_Pendulum.ipynb">Pr
 * matplotlib (display)
 * plotly (display)
 * JSAnimation (display)
+
+## Fast look at the results
+
+The pendulum environment consists in keep a stick in balance applying rotation forces.
+
+1. Applying random forces it's (nearly) impossible to keep it balanced
+
+<img src="src/pend_random.gif">
+
+2. After training our agent with PPO it masters the pendulum balance!
+
+<img src="src/pend_ppo.gif">
 
 
 ### References
