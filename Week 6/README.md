@@ -28,7 +28,7 @@ The pendulum environment consists in keep a stick in balance applying rotation f
 
 And this is how the reward changes across epochs
 
-<img src="src/reward_epochs.png">
+<img src="src/rewards_epochs.png">
 
 
 ### References
