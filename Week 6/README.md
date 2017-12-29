@@ -26,6 +26,10 @@ The pendulum environment consists in keep a stick in balance applying rotation f
 
 <img src="src/pend_ppo.gif">
 
+And this is how the reward changes across epochs
+
+<img src="src/reward_epochs.png">
+
 
 ### References
 
